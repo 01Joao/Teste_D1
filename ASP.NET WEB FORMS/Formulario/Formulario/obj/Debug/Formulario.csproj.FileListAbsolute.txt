@@ -1,0 +1,118 @@
+C:\Users\João\source\repos\Formulario\Formulario\bin\Formulario.dll.config
+C:\Users\João\source\repos\Formulario\Formulario\bin\Formulario.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Formulario.pdb
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\csc.exe
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\csc.exe.config
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\csc.rsp
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\csi.exe
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\csi.rsp
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.AppContext.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\vbc.exe
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\vbc.exe.config
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\vbc.rsp
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\VBCSCompiler.exe
+C:\Users\João\source\repos\Formulario\Formulario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\João\source\repos\Formulario\Formulario\bin\Antlr3.Runtime.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Newtonsoft.Json.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\System.Web.Optimization.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\WebGrease.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\System.Web.Optimization.xml
+C:\Users\João\source\repos\Formulario\Formulario\bin\Newtonsoft.Json.xml
+C:\Users\João\source\repos\Formulario\Formulario\bin\Antlr3.Runtime.pdb
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\João\source\repos\Formulario\Formulario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\João\source\repos\Formulario\Formulario\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\João\source\repos\Formulario\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\João\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\João\source\repos\Formulario\Formulario\obj\Debug\Formulario.dll
+C:\Users\João\source\repos\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\João\source\repos\Formulario\Formulario\bin\Domain.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Service.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Repository.dll
+C:\Users\João\source\repos\Formulario\Formulario\bin\Domain.pdb
+C:\Users\João\source\repos\Formulario\Formulario\bin\Service.pdb
+C:\Users\João\source\repos\Formulario\Formulario\bin\Repository.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Formulario.dll.config
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Formulario.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Formulario.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\csc.exe
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\csc.exe.config
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\csc.rsp
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\csi.exe
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\csi.rsp
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.AppContext.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.Collections.Immutable.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.IO.FileSystem.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\System.Reflection.Metadata.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\vbc.exe
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\vbc.exe.config
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\vbc.rsp
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\VBCSCompiler.exe
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\roslyn\VBCSCompiler.exe.config
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Antlr3.Runtime.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\AspNet.ScriptManager.jQuery.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Domain.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.Web.Infrastructure.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Newtonsoft.Json.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Service.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\System.Web.Optimization.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\WebGrease.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Repository.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Domain.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Service.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\System.Web.Optimization.xml
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Newtonsoft.Json.xml
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Antlr3.Runtime.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\Repository.pdb
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\pt-br\System.Web.Optimization.resources.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\obj\Debug\Formulario.dll
+D:\TUDO AQUI QUE PRECISO\ASP.NET WEB FORMS\Formulario\Formulario\obj\Debug\Formulario.pdb

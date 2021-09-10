@@ -1,0 +1,470 @@
+/* Main */
+.navContratante {
+  display: inline-block !important;
+  width: 100%;
+}
+.navContratante h2 {
+  width: 250px;
+  float: left;
+}
+.navContratante .input-contratante {
+  display: inline-block !important;
+}
+
+#div_Reserva .row {
+  display: block;
+  width: 100%;
+}
+
+.col-sms-ie {
+    float: right !important;
+}
+
+.col-card {
+  width: 25%;
+  display: block;
+  float: left;
+}
+.row-addconta-ie {
+    display: block;
+    margin-bottom: 75px;
+    padding-left: 15px;
+}
+
+.col-card .cardHeader {
+  text-align: center;
+}
+
+.col-card .cardHeader span {
+  display: block;
+}
+.col-card .cardBody .reserva {
+  text-align: center;
+}
+.col-card .cardFooter button {
+  width: 100%;
+}
+
+/* Filtro */
+
+.row-venda {
+  display: table;
+  width: 100%;
+}
+.row-venda .col-md-2  {
+    float: left;
+}
+.card-compra {
+  display: block;
+  float: left;
+}
+.col-tipo-venda {
+  max-width: 33.333333%;
+  display: block;
+  float: left;
+}
+.col-faixa-credito {
+  max-width: 33.333333%;
+  display: block;
+  float: left;
+}
+
+/* Selecao Bem */
+
+.panel-bem {
+  display: table;
+  width: 100%;
+}
+
+.panel-bem-ie-selecao-bem .panel-column {
+  max-width: 25%;
+  display: block;
+  float: left;
+  padding: 0;
+}
+.panel-bem-ie-selecao-bem .panel-column h2 {
+  font-size: 14px;
+  float: left;
+  padding-top: 12px;
+}
+
+.panel-bem-ie-selecao-bem .panel-column .box-custom {
+  width: auto;
+  font-size: 13px;
+  min-width: 50%;
+}
+
+.panel-column {
+  max-width: 50%;
+  display: block;
+  float: left;
+}
+.panel-column h2 {
+  float: left;
+}
+.panel-column .box-custom {
+  max-width: 50%;
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+.valor-lance-ie {
+  padding-top: 7px;
+}
+
+/* Grupos disponíveis */
+
+.qtd-cotas {
+  display: table;
+  width: 100%;
+}
+.qtd-cotas .row-qtd {
+  display: block;
+  float: right;
+  width: 50%;
+}
+.qtd-cotas .row-qtd div {
+  display: block;
+  float: left;
+  width: 65%;
+  text-align: right;
+}
+.col-qtd-right {
+  width: 35% !important;
+}
+.qtd-cotas .row-qtd div .input-group {
+  width: 100%;
+  display: table;
+}
+.qtd-cotas .row-qtd div .input-group .input-group-btn,
+.input-number {
+  display: block;
+  float: left;
+}
+
+.qtd-cotas .row-qtd div .input-group .input-number {
+  height: 30px;
+  width: 40px !important;
+}
+
+.modal-detalhes-plano .row {
+  display: table;
+  width: 100%;
+}
+.modal-detalhes-plano .row div {
+  display: block;
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.row-assembleia {
+  display: table;
+  width: 100%;
+}
+.row-assembleia div {
+  display: block;
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.tamanho-lance {
+  display: table;
+  width: 100%;
+}
+.tamanho-lance div {
+  display: block;
+  float: left;
+  width: 50%;
+}
+
+.row-cotas {
+  display: table;
+  width: 100%;
+}
+.row-cotas .col-reserva-1 {
+  display: block;
+  float: left;
+}
+
+.footer-add {
+  text-align: right;
+}
+
+.modal-simula .row {
+  display: table;
+  width: 100%;
+}
+.modal-simula .row div {
+  display: block;
+  float: left;
+  width: 50%;
+}
+
+.novos-valores {
+  display: table;
+  width: 100%;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+#tableGrupos th{
+  font-size: 12px !important;
+}
+#tableGrupos td{
+  font-size: 12px !important;
+}
+
+/* Cadastro Pessoa */
+
+.nav-tabs {
+  width: 100%;
+  display: table;
+}
+.nav-item {
+  display: block;
+  float: left;
+  width: 16.66%;
+}
+.nav-item .nav-link {
+  font-size: 14px !important;
+}
+
+.corpo-form .row {
+  width: 100%;
+  display: table;
+}
+.corpo-form .row div {
+  display: block;
+  float: left;
+}
+.row-footer-modal {
+  width: 100%;
+  display: table;
+}
+.row-footer-modal .col-define-principal,
+.col-button {
+  display: block;
+  float: left;
+}
+
+.col-button {
+  padding-left: 0;
+}
+.col-add-conta-ie {
+    padding-left: 16px !important;
+}
+.col-button button {
+  font-size: 13px !important;
+}
+
+.date-picker-div .date-picker-input {
+  width: 80%;
+  display: block;
+  float: left;
+}
+.date-picker-div .date-picker-icon {
+  width: 15%;
+  margin-left: -3px;
+}
+.date-picker-div .date-picker-icon span {
+  font-size: 16px;
+  padding: 5px 6px 5px 6px;
+  height: 30px;
+}
+
+.col-btn {
+  text-align: right;
+}
+
+/* Pagamento recebimento  */
+.bloco-pagamento .row {
+  width: 100%;
+  display: table;
+}
+.bloco-pagamento .row div {
+  display: block;
+  float: left;
+}
+
+/* Encerramento  */
+.row-conta-bancaria {
+  width: 100%;
+  display: table;
+}
+.row-conta-bancaria .col-conta-bancaria,
+.col-logo {
+  display: block;
+  float: left;
+}
+
+/* Seguro */
+
+.row-seg,
+.row-tipo-seguro {
+  width: 100%;
+  display: table;
+}
+.row-tipo-seguro .col-tipo-seguro {
+  display: block;
+  float: left;
+  text-align: center;
+}
+.col-tipo-seguro .seg-box p {
+    font-size: 18px !important;
+}
+.row-seg .seg-box {
+  display: block;
+  float: left;
+  text-align: center;
+}
+.col-plano-cobranca {
+    display: block;
+    float: left;
+}
+.col-plano-cobranca .seg-box {
+    width: 100%;
+}
+.col-plano-cobranca .seg-box p {
+    font-size: 18px !important;
+}
+
+.contratar-button {
+    text-align: center;
+}
+
+.contratar-button-ie {
+    width: 100%;
+    margin-bottom: 50px;
+    padding-top: 15px;
+}
+
+/* Sucesso Simulacao */
+
+.ofertar-lance,
+.row-documentos {
+  display: table;
+  width: 100%;
+}
+.ofertar-lance span,
+.contratar-button {
+  display: block;
+  float: left;
+}
+
+.row-documentos .card-compra {
+  max-width: 22% !important;
+  width: 22% !important;
+}
+
+/* Gerais */
+
+.selected {
+  border: none !important;
+}
+
+.dataTables_paginate {
+  width: 50%;
+}
+
+.footer {
+  text-align: right;
+  display: block;
+  margin-top: 15px;
+}
+
+.modal-header {
+  width: 100%;
+  display: table;
+}
+.modal-header .modal-title {
+  display: block;
+  float: left;
+  width: 90%;
+}
+.modal-header .close {
+  display: block;
+  float: right;
+  width: 10%;
+}
+
+.progresso {
+  width: 90% !important;
+  left: 4%;
+}
+
+.step {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0 4%;
+}
+
+.quadro-step {
+  margin: 0 3.15%;
+}
+
+.titulos-passo {
+  width: 100%;
+  display: table;
+}
+.passos-text {
+  width: 12.35% !important;
+  display: block;
+  float: left;
+}
+
+.modal-alert .row {
+  display: table;
+  width: 100%;
+}
+.modal-alert .col-alert {
+  display: block;
+  float: left;
+  width: 33.33%;
+}
+.modal-alert .icon-alert {
+  display: block;
+  text-align: center;
+}
+.modal-alert .icon-alert i {
+  margin-top: 12px;
+}
+.modal-alert .col-span-alert {
+  display: block;
+  float: left;
+  width: 66.66%;
+}
+.modal-alert .footer-alert {
+  text-align: right;
+}
+
+.modal-dialog-centered {
+  -webkit-transform: translate(0, 0%) !important;
+  transform: translate(0, 0%) !important;
+}
+
+.message-box {
+  text-align: center;
+}
+
+.loader-simulador {
+  background: url('../../img/spinner.gif') no-repeat center;
+  border: 2px solid #d9d9d9;
+}
+
+.col-define-principal {
+   max-width: 50% !important;
+}
+
+.col-define-principal .bold, p {
+    font-size: 12px !important;
+}
+.nav-tabs-ie {
+    height: 55px !important;
+}
+
+.nav-tabs-ie .nav-item {
+    height: 55px !important;
+}

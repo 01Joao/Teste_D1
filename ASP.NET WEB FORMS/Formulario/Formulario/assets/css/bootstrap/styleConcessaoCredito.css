@@ -1,0 +1,217 @@
+.title-border {
+    font-size: 16px;
+    color: #00354e;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.title-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.legend-content {
+    display: flex;
+    align-items: center;
+}
+
+.legend-content div {
+    margin: 0 10px;
+}
+
+.legend {
+    width: 10px;
+    height: 10px;
+    background: #dddddd;
+}
+
+.tr-expand {
+    position: relative;
+    height: 70px;
+}
+
+.td-expand {
+    width: 880px;
+    position: absolute;
+    background: #ddd;
+}
+
+.info-box {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info-box > div {
+    border-left: 1px solid #ddd;
+    color: #514d6a;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    flex: 1;
+    font-weight: 500;
+}
+.info-box > div:first-child {
+    border-left: 0;
+}
+
+
+.actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divider {
+    width: 1px;
+    height: 16px;
+    background: #ddd;
+    margin: 0 10px;
+}
+.actions i {
+    cursor: pointer;
+    font-size: 16px;
+    color: #006684;
+}
+
+.button-search {
+    width: 100%;
+    height: 100%;
+    border: none;
+    color: #ffffff;
+}
+
+
+.tabs-cadastro-pessoa {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #1890ff;
+    margin-bottom: 10px;
+}
+
+.tab-cadastro-pessoa-item-active {
+    color: #1890ff;
+    font-weight: 700;
+}
+
+.tab-cadastro-pessoa-item {
+    font-size: 14px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.footer-table {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 14px;
+    padding: 8px;
+    background: #ddd;
+}
+
+.footer-table strong {
+    margin-left: 5px;
+}
+.button-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button-list-item:nth-child(4) {
+    margin-left: 0 !important;
+}
+
+
+.button-list-item {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #f2f2f2;
+    width: 30%;
+    color: #514d6a;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.button-list a .button-list-item {
+    width: 100%;
+}
+
+.button-list a {
+    text-decoration: none;
+}
+
+
+.button-list .button-list a + a {
+    margin-left: 20px;
+}
+
+.button-list .button-list-item + .button-list-item {
+    margin-left: 20px;
+}
+
+.button-list-item-icon {
+    font-size: 23px;
+}
+
+.button-list-item-content {
+    flex: 1;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+}
+
+.button-list-item:hover {
+    background: #1890ff;
+    color: #fff;
+}
+
+.dropdown-content {
+    position: relative;
+}
+
+.dropdown-menu {
+    display: none;
+    width: 100%;
+    position: absolute;
+}
+
+.dropdown-menu ul {
+    list-style: none;
+}
+.dropdown-menu ul li {
+    padding: 10px 0 10px 10px;
+}
+.dropdown-menu ul li:hover {
+    background: #e6f7ff;
+    cursor: pointer;
+}
+.dropdown-overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: transparent;
+}
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.table-grid thead tr th {
+    padding: 10px; 
+}
+
+.table-grid tbody tr td {
+    padding: 10px;
+}

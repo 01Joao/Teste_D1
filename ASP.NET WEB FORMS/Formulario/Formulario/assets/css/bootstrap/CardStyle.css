@@ -1,0 +1,88 @@
+.cardHeader {
+  background: #d9e5ea;
+  color: #29758b;
+  font-weight: 600;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px;
+}
+
+.box-shad {
+  box-shadow: 1px 2px 12px rgba(20, 20, 20, 0.2);
+}
+
+.reserva {
+  color: #29758b;
+  font-weight: 600;
+  margin-bottom: 3px;
+}
+
+.modal-reserva h5 {
+  font-weight: 100;
+  font-size: 16px;
+}
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+}
+
+.cardTitle {
+  font-weight: 100;
+  color: #29758b;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.cardFooter {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardFooter button {
+  border-radius: 0;
+  font-size: 13px;
+  padding: 2px;
+}
+
+.btnComprar {
+  border-radius: 0;
+  background: #1dbaca;
+  border-color: #1dbaca;
+}
+
+.btnComprar.btn-success:not(:disabled):not(.disabled):active {
+  background: #1dbaca;
+  border-color: #1dbaca;
+}
+
+.btnComprar:focus {
+  box-shadow: none;
+}
+
+.btnComprar:hover {
+  background: #0f8996;
+  border-color: #0f8996;
+}
+
+.btnSimular {
+  margin-left: 10px;
+  height: 30px;
+  padding: 2px 6px;
+  width: 150px;
+  font-size: 15px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.col-card {
+  display: flex;
+}
+.col-card .card {
+  margin-top: 15px;
+  flex: 1;
+}
